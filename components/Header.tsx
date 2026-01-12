@@ -31,7 +31,7 @@ const Header: React.FC = () => {
         </div>
 
         <button className="bg-rose-600 hover:bg-rose-500 text-white px-5 py-2 rounded-full text-sm font-semibold transition-all hover:scale-105 active:scale-95 shadow-lg shadow-rose-900/20">
-          <a className="no-underline text-white" href="https://www.coeurai.net/">Explore ICU models</a>
+          <a className="no-underline text-white" href="https://www.aicuplus.in/">Explore ICU models</a>
         </button>
       </div>
     </nav>
