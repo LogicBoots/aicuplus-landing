@@ -1,0 +1,8 @@
+
+{
+  "name": "Coeur AI - The Emotional Core",
+  "description": "A sophisticated landing page for Coeur AI, featuring emotional intelligence demo powered by Gemini, high-end Tailwind animations, and a sleek dark aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
